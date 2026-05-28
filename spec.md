@@ -86,7 +86,7 @@
 
 > 複合語：語を連結して新語を作る。
 > - 名詞 + 名詞：Bun + sai = Bunsai（文末）、Bun + sas = Bunsas（文頭）
-> - 動詞 + fit：sha + fit = shafit（表現者）→「〜する人」を表すパターン
+> - 動詞 + fit：「〜する人」を表す（全動詞に適用可）。例：shafit（表現者）、kangfit（思考者）、suwfit（座る人）
 
 ### 疑問詞
 | Tamgen | 意味 |
