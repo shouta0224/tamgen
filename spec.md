@@ -82,8 +82,11 @@
 | bit | 記号 |
 | sai | 最後 |
 | sas | 最初 |
+| shafit | 表現者 |
 
-> 複合語：名詞を連結して新語を作る。例：Bun + sai = Bunsai（文末）、Bun + sas = Bunsas（文頭）
+> 複合語：語を連結して新語を作る。
+> - 名詞 + 名詞：Bun + sai = Bunsai（文末）、Bun + sas = Bunsas（文頭）
+> - 動詞 + fit：sha + fit = shafit（表現者）→「〜する人」を表すパターン
 
 ### 疑問詞
 | Tamgen | 意味 |
